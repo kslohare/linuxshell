@@ -1,0 +1,13 @@
+app:
+  name: Securities Lending System
+  version: 1.0
+  company:
+    name: ABC Financial Services
+    country: India
+  features:
+    collateral-management: true
+    margin-call: true
+  supported-currencies:
+    - INR
+    - USD
+    - EUR
